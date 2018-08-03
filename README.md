@@ -1,2 +1,2 @@
 # john.sobanski.io
-Source code for john.sobanski.io
+Source code for https://john.sobanski.io
