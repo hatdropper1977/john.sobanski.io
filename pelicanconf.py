@@ -39,7 +39,7 @@ AUTHORS_BIO = {
 DISQUS_SITENAME = 'freshlex'
 
 MENUITEMS = (
-             ('Fork me on GitHub!', 'https://github.com/hatdropper1977/freshlex.com'),
+             ('Fork me on GitHub!', 'https://github.com/hatdropper1977/john.sobanski.io'),
              ('AWS Architecture', '/category/howto'),
              ('Coins', '/category/coins'),
              ('Data Science', '/category/data-science'),
