@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 SITENAME = 'Coins N\' Clouds'
 SITEURL = 'https://john.sobanski.io'
-SITEURL = 'http://52.54.218.55:8000'
+#SITEURL = 'http://52.54.218.55:8000'
 #HEADER_COVER = 'images/sobanski.jpg'
 COLOR_SCHEME_CSS = 'monokai.css'
 
