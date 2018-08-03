@@ -29,7 +29,7 @@ AUTHORS_BIO = {
     "image": "https://john.sobanski.io/images/sobanski.jpg",
     "website": "https://github.com/hatdropper1977/john.sobanski.io",
     "location": "Washington, DC",
-    "bio": "Electrical Engineer turned Cloud Architect.<p><img src=\'https://www.freshlex.com/images/AWS_Badge.png\' alt=\'Cert\'></p><p>License <a href=\'https://aw.certmetrics.com/amazon/public/verification.aspx\'>R25L4B4K1FF1Q9WP</a> (July 1st 2016, Re-certified June 29th 2018)",
+    "bio": "Electrical Engineer turned Cloud Architect.<p><img src=\'https://john.sobanski.io/images/AWS_Badge.png\' alt=\'Cert\'></p><p>License <a href=\'https://aw.certmetrics.com/amazon/public/verification.aspx\'>R25L4B4K1FF1Q9WP</a> (July 1st 2016, Re-certified June 29th 2018)",
     "linkedin": "johnsobanski/",
     "github": "hatdropper1977",
   }
